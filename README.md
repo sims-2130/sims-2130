@@ -21,16 +21,16 @@
 <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 📉 Data Analysis Libraries & Models
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io🧩-blue?style=for-the-badge" />
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> 
 
 #### 📊 Business Intelligence & GIS Visualization
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io🧩-green?style=for-the-badge" />
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🔌 Embedded Systems & IoT
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### ⚙️ Cloud, Infrastructure & Version Control
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
@@ -47,4 +47,6 @@
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
+
+
 
