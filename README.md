@@ -3,34 +3,35 @@
 
 ---
 
-### About Me
+### 🎯 About Me
 * **Role & Focus** — Dynamic Data Science and IT Professional specializing in end-to-end ETL data pipelines, advanced analytics, and machine learning architectures.
 * **Experience Area** — Track record includes designing robust big data infrastructure, engineering predictive models, and developing interactive data visualization dashboards.
 * **Interests** — Skilled in translating complex geospatial, operational, and industrial datasets into high-impact actionable insights that optimize business performance and scale organizational efficiency.
 
 ---
 
-### Connect with Me
-<a href="mailto:simla2130@gmail.com"><img src="https://shields.io" /></a> <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+### 🌐 Connect with Me
+* 📧 **Email:** simla2130@gmail.com
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
-#### 🐍 Programming & Data Science Environment
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **🐍 Programming & Data Science Environment**
+  * `Python` | `Jupyter Notebook` | `Google Colab`
 
-#### 📉 Data Analysis Libraries & Models
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> 
+* **📉 Data Analysis Libraries & Models**
+  * `Pandas` | `NumPy` | `Scikit-Learn` | `Matplotlib` | `Seaborn` | `Statsmodels`
 
-#### 📊 Business Intelligence & GIS Visualization
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **📊 Business Intelligence & GIS Visualization**
+  * `Tableau` | `ArcGIS` | `QGIS` | `GeoPandas`
 
-#### 🔌 Embedded Systems & IoT
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **🔌 Embedded Systems & IoT**
+  * `Arduino` | `Raspberry Pi` | `MQTT` | `Wokwi`
 
-#### ⚙️ Cloud, Infrastructure & Version Control
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **⚙️ Cloud, Infrastructure & Version Control**
+  * `Git` | `GitHub` | `AWS` | `Google Cloud Platform` | `SQL`
 
 ---
 
@@ -40,13 +41,6 @@
 * **Machine Learning Engineering** — Exploratory Data Analysis (EDA), Statistical Modeling, Supervised Model Training, Regression & Classification, Time-series Predictive Modeling (SARIMAX).
 * **Computer Vision & Processing** — Face Tracking, Digital Image Processing.
 * **Project Frameworks** — Agile Methods, Data Cleaning, Trend Forecasting & Reporting.
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
 
 
 
